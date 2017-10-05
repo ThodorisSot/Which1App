@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  w1
+//  Which1
 //
-//  Created by Theodore Sotiriou on 25/04/2017.
-//  Copyright © 2017 Theodore Sotiriou. All rights reserved.
+//  Created by Theodore N. Sotiriou on 22/12/2016.
+//  Copyright © 2016 Theodore N. Sotiriou. All rights reserved.
 //
 
 import UIKit
